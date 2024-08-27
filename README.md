@@ -17,5 +17,8 @@ git clone https://github.com/Abishekrz/simple-movieticket-booking.git
 ```bash
 cd simple-movieticket-booking
 ```
-#
+# Usage
+- Run the application and follow the prompts to book your movie tickets.
+
+# MIT License
 - Feel free to adjust any details as needed!
